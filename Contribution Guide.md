@@ -1,5 +1,5 @@
 **Contribution Guide**
-This repository is run by the William and Mary chapter of CollHome. Contributions to all parts of the repo are accepted as long as they follow the standard format within this project. 
+This repository is run by the William & Mary chapter of CollHome. Contributions to all parts of the repo are accepted as long as they follow the standard format within this project. 
 
 Use Cases format:
 * Title
