@@ -15,7 +15,7 @@ Dear <PROPOSAL_RECIPIENT>,
 
 During the last year, we have been piloting our program with a small group of students performing community outreach and have seen meaningful contributions to and improvements in the lives of many individuals.
 
-We have seen measurable success and we are now seeking to expand our CollHome program to address the needs of more members in <COMMUNITY_NAME>. Our proposal requests $<AMOUNT> in funding to obtain the software and hardware necessary to equip homes with tools that will assist caregivers as they care for their loved ones, reducing stress and providing peac of mind.
+We have seen measurable success and we are now seeking to expand our CollHome program to address the needs of more members in <COMMUNITY_NAME>. Our proposal requests <AMOUNT> in funding to obtain the software and hardware necessary to equip homes with tools that will assist caregivers as they care for their loved ones, reducing stress and providing peac of mind.
 
 We appreciate <COMPANY_NAME> taking an interest in helping our students develop this program and perform outreach. Please give me a call at <PHONE_NUMBER> if you require any further information or have any questions concerning this proposal.
 
