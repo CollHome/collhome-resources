@@ -2,9 +2,10 @@ Sample Cover Letter for Grant Proposal (Information sourced from [here](https://
 
 The cover letter should contain a summary of your proposal, introduce your organization and summarize any recent communications you’ve had with the funding organization. Include the amount of funding that you are requesting, the population it will serve, and the need it will help solve. Try to bring your project to life in the cover letter and actively engage your reader.
 
-<DATE>
+<CURRENT_DATE>
 
-<PROPOSAL_RECIPIENT>, <ADDRESS>
+<PROPOSAL_RECIPIENT>, 
+<ADDRESS>
 
 RE: <SUBJECT_LINE>
 
