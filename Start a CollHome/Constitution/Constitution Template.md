@@ -4,7 +4,7 @@ Example Bylaws and Constitution for local CollHome chapters
 
 1.	This organization shall be called the Local Chapter of CollHome at the <UNIVERSITY_NAME>.
 
-**Article II. Purpose **
+**Article II. Purpose**
 
 1.	We are a student run volunteer organization devoted to helping caregivers and their loved ones. We use our technological expertise to create and install personalized smart home device plans leveraging existing products. We provide resources on common use cases that can be customized to caregiver’s needs. Our goal is to give caregivers peace of mind through our continuous support. Through this organization, college students connect with their greater communities and prepare to become caregivers themselves.
 
