@@ -4,11 +4,11 @@ Some caregivers and care recipients are under extreme financial strain, and prov
 
 **University Programs**
 
-Many universities have community outreach programs which provide resources and/or funding for projects that serve groups and individuals in need in the surrounding neighborhoods. Search your website and reach out to faculty to find out more and see if CollHome qualifies. Some of these programs require an application to explain the initiative requesting funds and how they will be allocated. [Click here to see a grant application essay template.](https://github.com/CollHome/collhome-resources/blob/master/Start%20a%20CollHome/Fundraising/Grant%20Essay%20Template)
+Many universities have community outreach programs which provide resources and/or funding for projects that serve groups and individuals in need in the surrounding neighborhoods. Search your website and reach out to faculty to find out more and see if CollHome qualifies. Some of these programs require an application to explain the initiative requesting funds and how they will be allocated. [Click here to see a grant proposal essay template.](https://github.com/CollHome/collhome-resources/blob/master/Start%20a%20CollHome/Fundraising/Grant%20Proposal%20Template.md)
 
 **Sponsorships**
 
-Another way to subsidize costs is to reach out to local and regional businesses that would be willing to support your organization, or pay for individual products. The best way to contact them is to find the email address of an individual that works for the company and to send them a sponsorship letter. [Here is an example letter that can be used to begin a dialogue with those companies.](https://github.com/CollHome/collhome-resources/blob/master/Start%20a%20CollHome/Fundraising/Sponsorship%20Letter%20Template)
+Another way to subsidize costs is to reach out to local and regional businesses that would be willing to support your organization, or pay for individual products. The best way to contact them is to find the email address of an individual that works for the company and to send them a sponsorship letter. [Here is an example letter that can be used to begin a dialogue with those companies.](https://github.com/CollHome/collhome-resources/blob/master/Start%20a%20CollHome/Fundraising/Sponsorship%20Letter%20Template.md)
 
 **Fundraising Initiatives**
 

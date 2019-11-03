@@ -5,7 +5,7 @@ The cover letter should contain a summary of your proposal, introduce your organ
 <CURRENT_DATE>
 
 <PROPOSAL_RECIPIENT> </br>
-<ADDRESS>
+<RECIPIENT_ADDRESS>
 
 RE: <SUBJECT_LINE>
 
