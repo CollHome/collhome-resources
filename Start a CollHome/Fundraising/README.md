@@ -8,7 +8,7 @@ Many universities have community outreach programs which provide resources and/o
 
 **Sponsorships**
 
-Another way to subsidize costs is to reach out to local and regional businesses that would be willing to support your organization, or pay for individual products.
+Another way to subsidize costs is to reach out to local and regional businesses that would be willing to support your organization, or pay for individual products. The best way to contact them is to find the email address of an individual that works for the company and to send them a sponsorship letter. [Here is an example letter that can be used to begin a dialogue with those companies.](https://github.com/CollHome/collhome-resources/blob/master/Start%20a%20CollHome/Fundraising/Sponsorship%20Letter%20Template)
 
 **Fundraising Initiatives**
 
