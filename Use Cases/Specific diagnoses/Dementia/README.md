@@ -11,5 +11,5 @@ The effects of dementia can be varied and needs are unique to individuals. CollH
 **3) [Power off Devices](../../../Product%20Guides/Wemo%20Smart%20Plug/README.md)**
         Dementia can cause devices to be left on which can be dangerous, expensive, and wasteful. Smart wall sockets can be set up to automatically turn off devices after specified amounts of time. CollHome volunteers should be careful to avoid installation in a way that would result in unexpected shut off of devices.
 
-**4) [Lock the Door] (../../../Product%20Guides/August%20Home%20Smart%20Lock/README.md)**
+**4) [Lock the Door](../../../Product%20Guides/August%20Home%20Smart%20Lock/README.md)**
         Peace of mind is very important for caregivers and their loved ones.  Having a lock for the front door that the caregiver can control via their mobile phone while also alerting the caregiver if the door is open or closed.  CollHome volunteers should not install the lock themselves as this is a security concern.  Instead, they should find a trusted locksmith in their area to do the actual instillation and then can handle the configuration and set up as well as teaching the caregiver how it works themselves.
