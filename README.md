@@ -1,0 +1,2 @@
+**CollHome**
+CollHome is a college organization started at the College of William and Mary, Williasmburg VA with the goal of providing in-home technology installation for caregivers. This repository contains information for other students to learn about caregiving as well as start their own CollHome chapter. Especially important is the 
