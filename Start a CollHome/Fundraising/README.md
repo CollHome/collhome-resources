@@ -4,7 +4,7 @@ Some caregivers and care recipients are under extreme financial strain, and prov
 
 **University Programs**
 
-Many universities have community outreach programs which provide resources and/or funding for projects that serve groups and individuals in need in the surrounding neighborhoods. Search your website and reach out to faculty to find out more and see if CollHome qualifies. Some of these programs require an application to explain the initiative requesting funds and how they will be allocated. [Click here to see a grant application essay template.](https://github.com/CollHome/collhome-resources/blob/master/Start%20a%20CollHome/Fundraising/Grant%20Essay%20Template)
+Many universities have community outreach programs which provide resources and/or funding for projects that serve groups and individuals in need in the surrounding neighborhoods. Search your website and reach out to faculty to find out more and see if CollHome qualifies. Some of these programs require an application to explain the initiative requesting funds and how they will be allocated. [Click here to see a grant application essay template.](https://github.com/CollHome/collhome-resources/blob/master/Start%20a%20CollHome/Fundraising/Grant%20Proposal%20Template.md)
 
 **Sponsorships**
 
