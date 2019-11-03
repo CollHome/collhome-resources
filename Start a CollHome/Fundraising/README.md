@@ -12,4 +12,4 @@ Another way to subsidize costs is to reach out to local and regional businesses 
 
 **Fundraising Initiatives**
 
-In the end CollHome is all about learning from, and improving the lives of members of each chapter's community. In that vein, creating fundraising initiatives that engage with those communities are a great way to both raise funds and spread awareness for the chapter. Examples of initiatives include carwashes, bakesales, profit shares, and letter campaigns. [Here is a list of ideas that could be tailored to your chapter.](http://www.thefundraisingauthority.com/fundraising-ideas/17-ways-to-raise-25000/)
+In the end CollHome is all about learning from, and improving the lives of members of each chapter's community. In that vein, creating fundraising initiatives that engage with those communities are a great way to both raise funds and spread awareness for the chapter. Examples of initiatives include carwashes, bakesales, and profit shares. [Here are some additional ideas that could be tailored to your chapter.](http://www.thefundraisingauthority.com/fundraising-ideas/17-ways-to-raise-25000/)
