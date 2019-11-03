@@ -4,13 +4,12 @@ Some caregivers and care recipients are under extreme financial strain, and prov
 
 **University Programs**
 
-Many universities have community outreach programs which provide resources and/or funding for projects that serve groups and individuals in need in the surrounding neighborhoods. Search your website and reach out to faculty to find out more and see if CollHome qualifies. Some of these programs require an application to explain the initiative requesting funds and how they will be allocated. [Click here to see a grant application essay template](https://github.com/CollHome/collhome-resources/blob/master/Start%20a%20CollHome/Fundraising/Grant%20Essay%20Template)
+Many universities have community outreach programs which provide resources and/or funding for projects that serve groups and individuals in need in the surrounding neighborhoods. Search your website and reach out to faculty to find out more and see if CollHome qualifies. Some of these programs require an application to explain the initiative requesting funds and how they will be allocated. [Click here to see a grant application essay template.](https://github.com/CollHome/collhome-resources/blob/master/Start%20a%20CollHome/Fundraising/Grant%20Essay%20Template)
 
 **Sponsorships**
 
+Another way to subsidize costs is to reach out to local and regional businesses that would be willing to support your organization, or pay for individual products.
 
-**University Programs**
+**Fundraising Initiatives**
 
-**1) [Tracking sleep patterns](../../Product%20Guides/Fitbit/README.md)**
-        Tracking sleep patterns is very important for some individuals with deme
-Fundraising can be enourmously helpful for some  CollHome provides is the fundraising that subsidize
+In the end CollHome is all about learning from, and improving the lives of members of each chapter's community. In that vein, creating fundraising initiatives that engage with those communities are a great way to both raise funds and spread awareness for the chapter. Examples of initiatives include carwashes, bakesales, profit shares, and letter campaigns. [Here is a list of ideas that could be tailored to your chapter.](http://www.thefundraisingauthority.com/fundraising-ideas/17-ways-to-raise-25000/)
